@@ -2,7 +2,7 @@
 
 In order to use this software and install the application onto your desktop follow these steps:
 
-  1- Ensure you have python installed on your device along with a Editor with that. 
+    1- Ensure you have python installed on your device along with a Editor with that. 
   
   2- Download both the .py file and .jpg to a folder of your choosing.
   

@@ -14,6 +14,7 @@ In order to use this software and install the application onto your desktop foll
 
 
 If you would like to create a desktop application for easier use, follow these steps:
+
     1- Install PyInstaller
             **pip install pyinstaller**
         

@@ -1,6 +1,6 @@
 ## Welcome to the BMI Calculator. 
 
-Certainly! Here are the instructions for using the provided code and converting it into a desktop application using PyInstaller:
+Here are the instructions for using the provided code and converting it into a desktop application using PyInstaller:
 
 Instructions for Using the BMI Calculator Code:
 1. Make sure you have the required dependencies installed: `tkinter`, `PIL`, `webbrowser`, `messagebox`, and `openpyxl`. You can install them using the `pip` package manager.

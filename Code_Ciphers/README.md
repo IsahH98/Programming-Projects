@@ -1,4 +1,7 @@
-Certainly! Here are the instructions on how to use and understand the provided code for encrypting and decrypting messages using three different ciphers: Vigenere, Vernam, and Caesar.
+# Code Ciphers
+
+
+Here are the instructions on how to use and understand the provided code for encrypting and decrypting messages using three different ciphers: Vigenere, Vernam, and Caesar.
 
 1. Vigenere Cipher:
    - To encrypt a message using the Vigenere cipher, call the `vigenere_encrypt()` function with the plaintext and a key as arguments. For example:
@@ -47,4 +50,3 @@ Note:
 - Make sure to provide the correct key or shift value used during encryption for successful decryption.
 - Feel free to modify the example plaintexts, keys, and shift values to encrypt and decrypt your own messages using the respective ciphers.
 
-These instructions should help you use the code and understand how it encrypts and decrypts messages using the Vigenere, Vernam, and Caesar ciphers.

@@ -1,11 +1,15 @@
 ## Welcome to the BMI Calculator. 
 
 In order to use this software and install the application onto your desktop follow these steps:
+
   1- Ensure you have python installed on your device along with a Editor with that. 
+  
   2- Download both the .py file and .jpg to a folder of your choosing.
+  
   3- Open your comand promt (CMD) and add these installations:
       **pip install Pillow
       pip install openpyxl**
+      
   4- Once these are installed you will be able to run the code. 
 
 

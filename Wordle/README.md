@@ -33,3 +33,9 @@ The Wordle50 game is a command-line word-guessing game. Players have a limited n
 4. Run the game by executing the following command:
    ```bash
    ./wordle50 <wordsize>
+
+Replace <wordsize> with the desired length of the word (5, 6, 7, or 8).
+
+The game will start, and you will be prompted to enter your guesses. Follow the instructions provided by the game and input your guesses accordingly.
+
+The game will provide feedback on each guess and notify you if you win or lose.

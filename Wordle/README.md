@@ -24,3 +24,12 @@ The Wordle50 game is a command-line word-guessing game. Players have a limited n
 2. Navigate to the folder where you saved the `wordle50.c` file and the word list text files using the `cd` command. For example:
    ```bash
    cd /path/to/folder
+
+3. Compile the code using a C compiler. Run the following command:
+
+   ```bash
+   gcc wordle50.c -o wordle50
+
+4. Run the game by executing the following command:
+   ```bash
+   ./wordle50 <wordsize>
